@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Assignment2_Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subscriptionForm"><b>Lee Newsletter \nSubscription Form</b></string>
+    <string name="etName">Name</string>
+    <string name="etEmail">Email</string>
+    <string name="rbMale">Male</string>
+    <string name="rbFemale">Female</string>
+    <string name="rbOther">Other</string>
+    <string name="swReceive">Receive family event-related emails</string>
+    <string name="ckTandC">Agree to the Terms and Conditions</string>
+    <string name="btnRegister">Register</string>
+    <string name="thankYou">Thank you for subscribing!</string>
+    <string name="detailLabel">Subscription Details</string>
+    <string name="nameLabel">Name: </string>
+    <string name="emailLabel">Email: </string>
+    <string name="genderLabel">Gender: </string>
+    <string name="familyLabel">Family Events Emails: </string>
+    <string name="termsLabel">Terms Accepted: </string>
+    <string name="goActivity2">Go To Activity Two</string>
+    <string name="welcome">Welcome to Activity Two, %1$s!</string>
+</resources>
