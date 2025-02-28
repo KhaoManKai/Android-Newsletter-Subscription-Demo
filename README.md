@@ -33,9 +33,11 @@ The application demonstrates:
 
 ### Screenshots
 
-![Form Fragment](screenshots-3/form_fragment.png)
-![Thank You Fragment](screenshots-3/thank_you_fragment.png)
-![Second Activity](screenshots-3/second_activity.png)
+<p float="left">
+  <img src="screenshots-3/form_fragment.png" width="250" />
+  <img src="screenshots-3/thank_you_fragment.png" width="250" /> 
+  <img src="screenshots-3/second_activity.png" width="250" />
+</p>
 
 ### Device Info 
 
