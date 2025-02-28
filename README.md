@@ -39,6 +39,10 @@ The application demonstrates:
   <img src="screenshots-3/second_activity.png" width="250" />
 </p>
 
+### Video
+
+[▶️ Watch the project demonstration video](https://youtu.be/ecCpasuokkg)
+
 ### Device Info 
 
 **Language**: Kotlin
