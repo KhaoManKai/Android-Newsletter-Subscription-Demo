@@ -33,7 +33,9 @@ The application demonstrates:
 
 ### Screenshots
 
-![Screenshot description](screenshots/screenshot1.png)
+![Form Fragment](screenshots-3/form_fragment.png)
+![Thank You Fragment](screenshots-3/thank_you_fragment.png)
+![Second Activity](screenshots-3/second_activity.png)
 
 ### Device Info 
 
